@@ -1,4 +1,6 @@
-finagle-thrift-node
-===================
+inside node run:
+npm install
+node server.js
 
-Finagle + Thrift + Node implementation
+inside finagle run:
+sbt run
